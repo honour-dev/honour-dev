@@ -1,4 +1,5 @@
-### hi👋 i'm @honour-dev.
+ 
+👋 hi, i'm @honour-dev.
 🧍🏾‍♂️ i’m interested in web development
 🔭 i’m currently learning Javascript and have completed HTML and CSS.
 🏄🏾‍♂️ i’m looking to collaborate on front-end projects to build my portfolio and also hopefully get internship to gain experiences in building real life projects.
