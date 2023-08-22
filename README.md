@@ -3,7 +3,7 @@
 <li>🧍🏾‍♂️ i’m passionate about web development.</li>
 <li>🔭 i’m currently learning Javascript and have completed HTML and CSS.</li>
 <li>🏄🏾‍♂️ i’m looking to collaborate on front-end projects to build my portfolio and also hopefully get internship to gain experiences in building real life projects.</li>
-<li>📫 How to reach me? Please send an email to honouroke@gmail.com</li>
+<li>📫 How to reach me? Please send an email to <a href= mailto:honouroke@gmail.com></li>
 </ul>
 <!--
 **honour-dev/honour-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
